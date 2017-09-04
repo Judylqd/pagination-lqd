@@ -1,0 +1,32 @@
+.active{
+ 	background:#9ACD32;
+}
+span,li{
+	float: left;
+	margin-left:10px;
+	width:40px;
+	height: 40px;
+	margin-top: 0px;
+	border: 1px solid #9ACD32;
+	list-style: none;
+	text-align:center; 
+	line-height: 40px;
+	cursor: pointer;
+}
+
+.pre,.next{ 
+	width:70px;
+	height:40px;
+	border: 1px solid #9ACD32;
+	text-align:center;
+	list-style: none; 
+	line-height: 40px;
+	cursor: pointer;
+}
+#page{
+	position: relative;
+	margin-left:18%;
+    margin-top: 38%;
+}
+
+
